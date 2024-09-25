@@ -34,4 +34,19 @@ Take the URL provided by azure and accesss your blob.
 <img src="https://i.imgur.com/MfTevsc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/MtCFGP8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+<br /><br />
+
+<h3>Access Keys</h3> 
+<h4>Enables you to access the storage account using Azure Storage Explorer.</h4><br/>
+
+Install Azure Storage Explorer.
+<img src="https://i.imgur.com/nu7Jz2P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
+
+Take the Acees Key provided by Azure.
+<img src="https://i.imgur.com/aPPSrQ4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Connect to your Storage account in Install Azure Storage Explorer.
+<img src="https://i.imgur.com/1ten8TQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4dDSKb2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
