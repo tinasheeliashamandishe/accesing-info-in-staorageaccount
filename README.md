@@ -2,6 +2,7 @@
 
 <h2>Description</h2>
 This lab will explaore methods to access information in an storage account.<br /><br />
+Bike picure taken from https://www.pexels.com/search/bike/
 
 There are 4 methods used to access information in an storage account:
 
@@ -50,3 +51,8 @@ Connect to your Storage account in Install Azure Storage Explorer.
 <img src="https://i.imgur.com/4dDSKb2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
+
+<br /><br />
+
+
+Bike picure taken from https://www.pexels.com/search/bike/
