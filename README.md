@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 This lab will explaore methods to access information in an storage account.<br /><br />
-Bike picure taken from https://www.pexels.com/search/bike/
+
 
 There are 4 methods used to access information in an storage account:
 
