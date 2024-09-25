@@ -21,26 +21,17 @@ There are 4 methods used to access information in an storage account:
 
 <h2>Lab walk-through:</h2>
 
-<p align="center">
-<h4>Topology</h4>
-Below, we have created a VN. This VN has 2 subnets. <br/>
-We will configure an azure private dns service, so that resources in the VN can communicate using FQDNs.<br/>
-<img src="https://i.imgur.com/EJ6N21j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<h3>Public access</h3> 
+<h4>Enables you to access a blob using the URL provided by Azure.</h4><br/>
 
-<h4>Step 1</h4> 
-Create a Private DNS Zone.<br/>
-<img src="https://i.imgur.com/hlsO0PS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enable anonymous access in your storage account.
+<img src="https://i.imgur.com/CfqcwFC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 
-<h4>Step 2</h4> 
-In your private DNS Zone. Link it to your VN.<br/>
-<img src="https://i.imgur.com/TtmcQnQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/q5ap1Dy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/><br/>
+Change the access level for your blob.
+<img src="https://i.imgur.com/L4rPDqq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Use auto registration to ensure that your VMs are automatically aded to the record sets.
-<img src="https://i.imgur.com/2PEsAfV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Take the URL provided by azure and accesss your blob.
+<img src="https://i.imgur.com/MfTevsc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MtCFGP8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-<h4>Step 3</h4> 
-After the setup is doen your VMs can communicate using FQDNs.<br/>
-<img src="https://i.imgur.com/HkfDJ4W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
