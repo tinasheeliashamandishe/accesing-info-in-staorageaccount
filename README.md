@@ -65,9 +65,9 @@ Connect to your container in Install Azure Storage Explorer.
 <img src="https://i.imgur.com/z00eR0T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/g7DXp1y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 
-With Shared access keys comes Stored access policies which give you more control and security for your shared signatures.<br/>
+With Shared access keys comes Stored access policies which give you more control and security for your shared signatures.<br/><br/>
 
-<br /><br />
+<br /><br /><br/>
 
 
 Bike picure taken from https://www.pexels.com/search/bike/
