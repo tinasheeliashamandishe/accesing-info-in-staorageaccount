@@ -51,6 +51,21 @@ Connect to your Storage account in Install Azure Storage Explorer.
 <img src="https://i.imgur.com/4dDSKb2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
+<h3>Shared Access Signatures</h3> 
+<h4>Azure Shared Access Signatures (SAS) are a way to grant restricted access to Azure Storage resources without exposing your account key. With SAS, you can create a token that provides specific permissions (like read or write) on resources for a limited time.</h4><br/>
+They can be used at Blob level, Conatiner Level or Storage account level.<br/><br/>
+
+Container level Exeample: <br/><br/>
+
+Go to your conatiner and create a shared access signature.
+<img src="https://i.imgur.com/ZR7iaY1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
+
+
+Connect to your container in Install Azure Storage Explorer.
+<img src="https://i.imgur.com/z00eR0T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/g7DXp1y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 
 <br /><br />
 
